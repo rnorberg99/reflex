@@ -1,0 +1,35 @@
+What happens when you initialize a repository? Why do you need to do it?
+git init creates a .git file
+you still need to commit the file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It helps yuo organize the files before commiting them
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+helps organize your files and changes]]
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When testing new functions or a different method
+
+How do the diagrams help you visualize the branch structure?
+
+They show where the branches split and if there are any orphans
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the commits from both branches are added to the master branch
+the diagram helps us visualize the branchs and chanages
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging should only happen when the changes are simple
+when the same code is changed differently then you need a manual merge
+
+
+
+
+
+
